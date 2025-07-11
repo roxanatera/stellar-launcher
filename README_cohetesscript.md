@@ -13,11 +13,17 @@ Un avanzado sistema de simulación de lanzamientos espaciales con animaciones AS
 - 🚀 Efectos de "despegue" animados
 - 📜 Citas inspiradoras de pioneros espaciales
 
-## 🛠️ Requisitos
+## 🛰️ Casos de Uso en DevOps
 
-- Bash 4.0+ (`bash --version`)
-- Terminal compatible con ANSI colors (GNOME Terminal, iTerm2, etc.)
-- Linux/macOS (no probado en Windows Subsystem for Linux)
+- Simulación de despliegues en CI/CD
+- Práctica de scripting para automatización cloud
+- Ejemplo educativo para pipelines de implementación
+
+## 📦 Requisitos
+
+- Bash 4.0+
+- Terminal compatible con ANSI colors
+- Linux/macOS (o WSL en Windows)
 
 ## 🚀 Cómo Usar
 
