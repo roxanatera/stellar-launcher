@@ -1,6 +1,6 @@
 # 🚀 Sistema de Despliegue Interplanetario - Stellar Launcher
 
-![Demo del Script](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0d2V6eGx0YzF0dWJjZ3BqZ2V6b2JtYzZ4NnA1aGZ6eHp1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgJew6mboozEWJ1Q7h/giphy.gif)
+![Demo del Script](https://youtu.be/up2oVOKwpCE)
 
 Un avanzado sistema de simulación de lanzamientos espaciales con animaciones ASCII y efectos de terminal.
 
@@ -23,7 +23,7 @@ Un avanzado sistema de simulación de lanzamientos espaciales con animaciones AS
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tuusuario/stellar-launcher.git
+git clone github.com/roxanatera/stellar-launcher/blob/main/README_cohetesscript.md
 cd stellar-launcher
 
 # 2. Dale permisos de ejecución
@@ -33,7 +33,7 @@ chmod +x info_cohetes.sh
 ./info_cohetes.sh
 
 📸 Capturas
-https://example.com/screenshot1.png | https://example.com/screenshot2.png
+screenshot1.png
 
 🌌 Misiones Disponibles
 Nombre Misión	Destino
