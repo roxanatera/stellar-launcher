@@ -1,6 +1,6 @@
 # 🚀 Sistema de Despliegue Interplanetario - Stellar Launcher
 
-![Demo del Script](https://www.youtube.com/watch?v=up2oVOKwpCE&ab_channel=JR-codeKloud)
+[![Demostración en YouTube](https://img.shields.io/badge/Ver-Demostración-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=up2oVOKwpCE&ab_channel=JR-codeKloud)
 
 Un avanzado sistema de simulación de lanzamientos espaciales con animaciones ASCII y efectos de terminal.
 
